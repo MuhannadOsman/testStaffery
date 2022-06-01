@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import "./App.css";
+import "./App.scss";
 import { createRoot } from 'react-dom/client';
 import  Routes from './Routes';
 

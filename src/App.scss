@@ -3,8 +3,17 @@
 --secondary:  teal;
 --footer : #888f9f;
 }
+// colors
+$primary: "#2f3f4f";
+
+
+// fontsize
+
+// 
+
+
 body {
-    color: var(--primary);
+    color: $primary;
 }
 
 * {
